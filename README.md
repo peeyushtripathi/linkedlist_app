@@ -1,2 +1,2 @@
-# linkedlist_app
-linked list related
+# make all
+# ./linked_list
